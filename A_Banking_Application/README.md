@@ -1,4 +1,4 @@
-# First Website
+# Bankist Application
 
 Submitted by: Samuel Ntadom
 
