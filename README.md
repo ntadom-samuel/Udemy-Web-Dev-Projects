@@ -3,7 +3,7 @@
 
 This repository contains all the projects I did while taking a course on Udemy. They include:
 
-# Usepopcorn: React
+# Usepopcorn: React.js, CSS, and Ombd API
 <div>
     <a href="https://www.loom.com/share/0eb1d53acd9e4780a7fc19818ad1ce62">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/0eb1d53acd9e4780a7fc19818ad1ce62-218937ca3df9f7fb-full-play.gif">
