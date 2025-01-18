@@ -22,8 +22,8 @@ This repository contains all the projects I did while taking a course on Udemy. 
 # Bankist Application: JavaScript and CSS 
 ## Video
 <div>
-    <a href="https://www.loom.com/share/a5a2eaebebff4f968b8db2388e338ce4">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/a5a2eaebebff4f968b8db2388e338ce4-35e3b2fc8826217e-full-play.gif">
+    <a href="https://www.loom.com/share/c5779e66057a4de3aa5e77f3184e9560">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/c5779e66057a4de3aa5e77f3184e9560-27df4f3779fa4a58-full-play.gif">
     </a>
   </div>
 
