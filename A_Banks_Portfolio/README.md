@@ -1,4 +1,4 @@
-# Bankist Application
+# Bankist Portfolio
 
 Submitted by: Samuel Ntadom
 
