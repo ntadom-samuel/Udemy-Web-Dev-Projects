@@ -1,9 +1,8 @@
 # Bankist Application
+This application uses the Ombd API to create a movie viewing application
 
 Submitted by: Samuel Ntadom
 
-
-Time spent: 2 days spent in total
 
 ## Features
 - [x] Dynamic
